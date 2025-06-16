@@ -1,4 +1,5 @@
-remote_theme: thelehhman/texture
+remote_theme: samarsault/plainwhite-jekyll
+# remote_theme: thelehhman/texture
 title: Apx
 author: GitHub User
 email: ....
@@ -29,8 +30,6 @@ texture:
       - title: Resume
         url: "/posts/resume"
 
-plainwhite:
-  dark_mode: true
 
   # generate social links in footer
   social_links:
