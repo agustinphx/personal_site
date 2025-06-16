@@ -19,4 +19,4 @@ paypal
 The theme is available as open source under the terms of the MIT License.
 
 ## More themes
-Texture
+[Texture](https://github.com/samarsault/texture)
