@@ -1,12 +1,12 @@
-title: Apx
+# title: Apx
 
-subtitle: Data Engineer
+# subtitle: Data Engineer
 
-logo: /assets/img/headshot_circle.png
+# logo: /assets/img/headshot_circle.png
 
-show_downloads: true
+# show_downloads: true
 
-remote_theme: thelehhman/texture
+# remote_theme: thelehhman/texture
 
 # theme: jekyll-theme-minimal
 
@@ -20,3 +20,10 @@ texture:
 
   social_links:
     linkedIn: in/apx # format: locale/username
+
+texture:
+  style: [yellow|red|black|blue|green|purple]
+  showNav: true
+  disqus_shortname: games
+#  showPicker: [false|true] # show the texture selector(development purposes)
+
