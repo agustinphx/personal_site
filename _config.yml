@@ -27,3 +27,9 @@ texture:
   disqus_shortname: games
 #  showPicker: [false|true] # show the texture selector(development purposes)
 
+texture:
+  navigation:
+    - title: My Work
+      url: "/my-work"
+    - title: Resume
+      url: "/resume"
