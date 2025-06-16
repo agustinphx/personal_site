@@ -16,7 +16,7 @@ If this project help you reduce time to develop, you can give me a cup of coffee
 paypal
 
 ## License
-The theme is available as open source under the terms of the MIT License. 
+The theme is available as open source under the terms of the MIT License
 https://opensource.org/license/MIT
 
 ## More themes
