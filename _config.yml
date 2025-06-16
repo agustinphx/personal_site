@@ -29,6 +29,8 @@ texture:
       - title: Resume
         url: "/posts/resume"
 
+plainwhite:
+  dark_mode: true
 
   # generate social links in footer
   social_links:
