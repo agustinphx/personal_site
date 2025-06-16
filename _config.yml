@@ -1,37 +1,47 @@
-# title: Apx
-
-# subtitle: Data Engineer
-
-# logo: /assets/img/headshot_circle.png
-
-# show_downloads: true
-
-# remote_theme: thelehhman/texture
-
-# theme: jekyll-theme-minimal
-
 remote_theme: thelehhman/texture
+title: Apx
+author: GitHub User
+email: ....
+description: > # this means to ignore newlines until "show_exerpts:"
+  Apx's Personal website.
+show_excerpts: true # set to true to show excerpts on the homepage
+#baseurl: /texture
+presentation: Presentation
 
-theme: texture
+# Minima date format
+# refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
+sass:
+  sass_dir: _sass
 
-
+permalink: /posts/:title/
 texture:
   title: Apx
   tagline: Data Engineer
   date_format: "%b %-d, %Y"
-
-  social_links:
-    linkedIn: in/apx # format: locale/username
-
-texture:
-  style: [yellow|red|black|blue|green|purple]
+  style: blue
   showNav: true
-  disqus_shortname: games
-#  showPicker: [false|true] # show the texture selector(development purposes)
-
-texture:
+  showPicker: false
   navigation:
-    - title: My Work
-      url: "/my-work"
-    - title: Resume
-      url: "/resume"
+      - title: Home
+        url: "https://agustinphx.github.io/"
+      - title: My Work
+        url: "/posts/my-work"
+      - title: Resume
+        url: "/posts/resume"
+
+
+  # generate social links in footer
+  social_links:
+    linkedIn: in/apx
+ 
+
+# If you want to link only specific pages in your header, uncomment
+# this and add the path to the pages in order as they should show up
+
+
+# Build settings
+# theme: texture
+
+plugins:
+  - jekyll-seo-tag
+#  - jekyll-feed
