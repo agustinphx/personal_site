@@ -10,6 +10,8 @@
 
 # theme: jekyll-theme-minimal
 
+remote_theme: thelehhman/texture
+
 theme: texture
 
 
