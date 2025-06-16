@@ -6,4 +6,6 @@ logo: /assets/img/headshot_circle.png
 
 show_downloads: true
 
+remote_theme: thelehhman/texture
+
 # theme: jekyll-theme-minimal
