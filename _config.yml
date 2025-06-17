@@ -13,7 +13,7 @@ sass:
   sass_dir: _sass
 plainwhite:
   name: Agustín Philippeaux
-  tagline:  Data Engineer - Business and Systems degree
+  tagline:  Analytics Engineer - Business and Systems degree
   date_format: "%b %-d, %Y"
 # sitemap: true # set to true to generate sitemap.xml content
 # search: true # set to true to enable searchbar
