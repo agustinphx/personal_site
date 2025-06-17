@@ -4,6 +4,5 @@ source "https://rubygems.org"
 
 gemspec
 
-# gem "texture"
-
 gem "plainwhite"
+
