@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Proyectos de Ingeniería de Datos"
+date:   false
 categories: Databricks SQL Python Spark
 ---
 Proyecto aplicado al sector comercial en .... donde se buscaba solucionar la problemática de ...
