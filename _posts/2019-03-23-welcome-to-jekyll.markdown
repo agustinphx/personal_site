@@ -2,7 +2,7 @@
 layout: post
 title:  "Integrating razorpay into your webapp"
 date:   2019-03-23 21:03:36 +0530
-categories: Databricks SQL Python
+categories: Databricks SQL Python Spark
 ---
 Proyecto de Ingeniería de Datos aplicado al sector comercial en ....
 
