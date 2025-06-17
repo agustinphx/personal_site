@@ -20,10 +20,35 @@ plainwhite:
   dark_mode: true # set to true to add dark mode toggle
   portfolio_image: "assets/profile_picture.png" # the path from the base directory of the site to the image to display (no / at the start)
   html_lang: "en" # set the lang attribute of the <html> tag for the pages. See here for a list of codes: https://www.w3schools.com/tags/ref_country_codes.asp
+  condensed_mobile:
+    #- home
+    - page
+    - post
+  # generate social links in footer
+  social_links:
+    twitter: samarsault
+    github:  samarsault
+    linkedIn: in/samarsault
+    #dribbble: jekyll
+    #flickr:   jekyll
+    #instagram: jekyll
+    #pinterest: jekyll
+    #youtube: jekyll
+    #facebook: jekyll
+    #soundcloud: jekyll
+    #telegram: jekyll
+    #gitlab: jekyll
+    #email: jekyll
 
-# Plugins
-plugins:
-  - jekyll-seo-tag
+    # Mastodon instances
+    # mastodon:
+    # - username: jekyll
+    #   instance: example.com
+    # - username: jekyll2
+    #   instance: example.com
+
+
+
 
 # Social links — solo se mostrarán si modificás el layout de minima
 # o lo extendés con un plugin.
@@ -31,11 +56,13 @@ social_links:
   github: agustinphx
   linkedin: in/apx
 
-# Site build options
-exclude:
-  - Gemfile
-  - Gemfile.lock
-  - README.md
-  - node_modules
+
+# Build settings
+theme: plainwhite
+
+# Plugins
+plugins:
+  - jekyll-seo-tag
+#  - jekyll-feed
   
-theme: minima
+# theme: minima
