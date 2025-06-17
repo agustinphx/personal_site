@@ -6,7 +6,7 @@ plainwhite:
   date_format: "%b %-d, %Y"
   search: true
 
-portfolio_image:  "assets/portfolio.png" # the path from the base directory of the site to the image to display (no / at the start)
+portfolio_image:  "assets/profile_picture.png"
 
   social_links:
     github: https://github.com/agustinphx
