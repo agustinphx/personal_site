@@ -1,5 +1,5 @@
 title: "Agustín Philippeaux"
-  author: "Mix"
+author: "Mix"
 email: "agustinphx@gmail.com"
 description: >
   Write an awesome description for your new site here. You can edit this
@@ -15,14 +15,14 @@ sass:
   sass_dir: _sass
   
 plainwhite:
-  name: Agustín Philippeaux
-  tagline: Data Engineer - Business and Systems degree
-  date_format: "%b %-d, %Y"
+name: Agustín Philippeaux
+tagline: Data Engineer - Business and Systems degree
+date_format: "%b %-d, %Y"
 sitemap: false # set to true to generate sitemap.xml content
 search: false # set to true to enable searchbar
-  dark_mode: true # set to true to add dark mode toggle
-  portfolio_image: "assets/profile_picture.png" # the path from the base directory of the site to the image to display (no / at the start)
-  html_lang: "en" # set the lang attribute of the <html> tag for the pages. See here for a list of codes: https://www.w3schools.com/tags/ref_country_codes.asp
+dark_mode: true # set to true to add dark mode toggle
+portfolio_image: "assets/profile_picture.png" # the path from the base directory of the site to the image to display (no / at the start)
+html_lang: "en" # set the lang attribute of the <html> tag for the pages. See here for a list of codes: https://www.w3schools.com/tags/ref_country_codes.asp
 
 # Plugins
 plugins:
