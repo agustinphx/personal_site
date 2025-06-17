@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Proyectos de Analítica e Ingeniería de Datos"
-date:   2025-06-23 21:03:36 +0530
+date:   2025-03-23 21:03:36 +0530
 categories: Databricks SQL Python Spark PowerBI
 ---
 Proyecto aplicado al sector comercial en .... donde se buscaba solucionar la problemática de ...
