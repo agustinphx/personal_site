@@ -54,9 +54,9 @@ condensed_mobile:
 
 # Build settings
 # theme: plainwhite
-theme: minima
+# theme: minima
 
-# remote_theme: heiswayi/thinkspace
+remote_theme: heiswayi/thinkspace
 
 
 plugins:
